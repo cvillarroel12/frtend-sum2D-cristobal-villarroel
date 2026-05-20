@@ -1,0 +1,10 @@
+============================================================ CONSULTA
+#[1] Etapa del proyecto: [Etapa 1] Fecha:
+[20/05/2026] ------------------------------------------------------------
+PROMPT ENVIADO A COPILOT: Ninguno ------------------------------------------------------------
+RESPUESTA RECIBIDA (resumen breve): Ninguna ----------------------------------------------------------
+-- USO EN EL PROYECTO: Ninguno ------------------------------------------------------
+------ REFLEXION PERSONAL: Esta evaluacion me hace sentir terrible. Yo creia que me enseñarian como usar HTML,
+pero siento como que nos dan trabajos muy complicados y nos dicen que usemos Copilot en vez de explicarlos.
+No puedo pretender que esto es aceptable para siempre. Extraño vivir en un mundo sin ChatGPT.
+============================================================
